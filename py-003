@@ -1,0 +1,6 @@
+l=int(input("loan"))
+s=int(input("salary"))
+p=int("input("percent"))
+add=(s*p)
+total=(l/add)
+print(total)
